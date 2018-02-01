@@ -12,7 +12,7 @@ look at the index.html file
 
 <h1 align=center>Full Phonegap Computer Programming Course Summary By John</h1> 
 
-<li><a href="">....</a><br>
+<li><a href="https://preview.c9users.io/john2000/gamedev/t3a01-click-john.html?_c9_id=livepreview3&_c9_host=https://ide.c9.io">t3a01-click-john</a><br>
 <li><a href="https://preview.c9users.io/john2000/gamedev/t3a02-story-John.html?_c9_id=livepreview4&_c9_host=https://ide.c9.io">t3a02-story-john</a><br>
 <li><a href="">....</a><br>
 <li><a href="">....</a><br>
